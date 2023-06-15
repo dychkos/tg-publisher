@@ -16,7 +16,7 @@ export class AppController {
     // this.telegramService.sendMessage('test');
     // eslint-disable-next-line @typescript-eslint/no-var-requires
 
-    return 'ok';
+    return 'ready to use';
     // return this.appService.getHello();
   }
 
